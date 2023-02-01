@@ -1,0 +1,173 @@
+
+
+@media only screen and (max-width: 900px) {
+	section{
+		margin-top: 40px;
+		margin-bottom: 40px;
+	}
+	img{
+		width: 100%;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+
+	.conteudo{
+		top: 275px;
+	}
+	.conteudo .topo .topo-text p{
+		text-align: center;
+	}
+	.conteudo .topo .topo-text {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		width: 100%;
+		position: relative;
+		text-align: center;
+	}
+	.conteudo .tec-inverter {
+		width: 100%;
+		display: flex;
+		margin-top: 50px;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+	}
+	.conteudo .tec-inverter .inverter-comparativo {
+		display: flex;
+		width: 100%;
+		border-right: none;
+		border-left: none;
+		padding-left: 15px;
+		padding-right: 15px;
+		margin-bottom: 20px;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+	}
+	.conteudo .tec-inverter .inverter-comparativo .sem-inverter,.conteudo .tec-inverter .inverter-comparativo .com-inverter {
+		width: 100%;	
+		text-align: center;
+		align-items: center;
+		padding-top: 40px;
+	}
+	.conteudo .filtragem .filtragem-content {
+		display: flex;
+		width: 100%;
+		flex-direction: column-reverse;
+	}
+	.conteudo .filtragem .filtragem-content .filtragem-text, .conteudo .filtragem .filtragem-content .filtragem-img {
+		width: 100%;
+	}
+	.conteudo .filtragem h1 {
+		color: #00c0f3;
+		font-size: 50px;
+		text-transform: uppercase;
+		text-align: center;
+		padding-bottom: 30px;
+	}
+
+	.conteudo .fluxo-coanda {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		padding-top: 40px;
+		flex-direction: column;
+		padding-bottom: 130px;
+	}
+	.conteudo .fluxo-coanda .fluxo-img img {
+		width: 100%;
+	}
+	.conteudo .fluxo-coanda .fluxo-img {
+		width: 100%;
+	}
+	.conteudo .fluxo-coanda .fluxo-text {
+    width: 100%;
+    margin: 2%;
+    /* z-index: 1; */
+    text-align: center;
+}
+.conteudo .app-controle .controle-text {
+    width: 100%;
+    text-align: center;
+}
+
+.conteudo .app-controle .controle-text p {
+    margin: 0;
+    padding-right: 0px;
+}
+.conteudo .app-controle {
+	background: none;
+}
+.conteudo .garantia .garantia-img,.conteudo .garantia .garantia-text {
+width: 100%;
+	}
+	.conteudo .garantia {
+    display: flex;
+    align-items: center;
+    padding-top: 50px;
+        flex-direction: column-reverse;
+    text-align: center;
+}
+.conteudo .noite-tranquila {
+    display: flex;
+    width: 100%;
+    padding-top: 50px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.conteudo .noite-tranquila .noite-tranquila-text,.conteudo .noite-tranquila .noite-tranquila-img{
+	width: 100%;
+	background: none;
+}
+.conteudo .compressor .chave-melhoria,.conteudo .compressor .chave{
+	flex-direction: column;
+}
+.chave-text-img{
+text-align: center;
+}
+.chave-text-img img{
+width: 270px !important;
+}
+.conteudo .compressor .chave-melhoria .chave-img ,.conteudo .compressor .chave-melhoria .chave , .conteudo .compressor .chave-melhoria .chave .chave-text,.conteudo .compressor .chave-melhoria .chave .chave-text-img{
+	width: 100%;
+	text-align: center;
+}
+.conteudo .compressor .durabilidade .durabilidade-img,.conteudo .compressor .durabilidade .durabilidade-text {
+width: 100%;
+	}
+	.conteudo .compressor .durabilidade{
+		flex-direction: column;
+		text-align: center;
+	}
+	.conteudo .compressor .durabilidade .durabilidade-img img {
+    width: 250px;
+}
+.conteudo .compressor .chave-melhoria .chave-img img {
+    width: 300px;
+}
+.conteudo .garantia .garantia-img img {
+    width: 275px;
+}
+.conteudo .filtragem .filtragem-content .filtragem-img img {
+    width: 275px;
+}
+.filtragem-img {
+    text-align: center;
+}
+.filtragem-text {
+    text-align: center;
+}
+.chave {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.conteudo .tec-inverter .img-economize {
+    width: 100%;
+    margin: 1%;
+}
+}
